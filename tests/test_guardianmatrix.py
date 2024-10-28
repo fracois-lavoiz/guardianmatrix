@@ -1,4 +1,4 @@
-"""Tests for monitoring tests."""
+"""Tests for correlation tests."""
 import pytest
 
 def test_basic():
